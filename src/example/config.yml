@@ -1,0 +1,18 @@
+---
+head:
+    title: this is title
+    meta:
+        description: mawk is a open source markdown based website kit that help to build webpages with ease
+        author: Indentech
+        keywords: framework, simple, best, markdown, website
+    style: css\default.css - overwritten by the layout
+    script: js\default.js - overwritten by the layout
+layout: theme\default
+page:
+    index:
+        head:
+            title: this is index title - will be overwritten by index.mw inline config
+    about:
+        head:
+            title: this is about title - will be overwritten by about.mw inline config
+...

@@ -1,0 +1,33 @@
+---
+page: theme\default\home
+head:
+    title: mawk - web made simple
+    meta:
+        description: mawk is a open source markdown based website kit that help to build webpages with ease
+        author: Indentech
+        keywords: website, framework, simple, best, markdown
+...
+
+# This is Index heading
+
+> Blockquote is default
+
+- Content
+  - How to get Started
+  - How to end
+
+## table
+    version |   Date    |   Comments        |
+------------|-----------|-------------------|
+    v0.1    |           |   Initial Version |
+
+$ Form
+@ Card
+```
+this is program
+```
+`single command`
+// Comment
+_italic_ 
+*Bold*
+    

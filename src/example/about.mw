@@ -1,0 +1,14 @@
+---
+layout: theme\deafult\secondary
+head:
+    title: About mawk
+    meta:
+        description: mawk is a open source markdown based website kit that help to build webpages with ease
+        author: Indentech
+        keywords: website, framework, simple, best, markdown
+...
+
+# This is About heading
+
+> Just do what's needed
+
